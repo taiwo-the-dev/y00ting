@@ -1,5 +1,6 @@
 # y00ting
 
-HTML ==> HyperText Markup Language (for web content)
+HTML ==> HyperText Markup Language
 
 CSS ==> Cascading Style Sheet (for Styling web page)
+era of the ordain
